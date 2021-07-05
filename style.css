@@ -14,3 +14,16 @@ h1 {
   font-size: 5em;
   color:rosybrown;
 }
+.Dosha{
+width:200px;
+height:100px;
+font-size:30px;
+text-align:center;
+margin-left:47vw;
+margin-top:1em;
+
+}
+.Dosha:hover{
+  color:brown;
+  background-color: burlywood;
+}
