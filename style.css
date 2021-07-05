@@ -1,18 +1,29 @@
 body {
-  margin-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-right: 0;
-  background-color: brown;
+margin-left: 0;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+background-color: brown;
+font-size:25px;
+font-family:mr_HalfwayHouseG;
+letter-spacing: 0.03em;
 }
 img {
-  width: 100vw;
-  height: auto;
+width: 100vw;
+height: auto;
 }
 h1 {
-  text-align: center;
-  font-size: 5em;
-  color:rosybrown;
+text-align: center;
+font-size: 5em;
+color:rosybrown;
+margin-top:0;
+}
+article{
+background-image: url("dasha.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+min-height:100vh;
+padding-top:2vh;
 }
 .Dosha{
 width:200px;
@@ -21,9 +32,36 @@ font-size:30px;
 text-align:center;
 margin-left:47vw;
 margin-top:1em;
+margin-top:0;
 
 }
 .Dosha:hover{
-  color:brown;
-  background-color: burlywood;
+color:brown;
+background-color: burlywood;
+}
+.dosha1{
+font-size: 75px;
+padding-left:50vw;
+}
+ul{
+background-color: D92F2F;
+font-size:2em;
+margin-bottom:0;
+}
+li{
+display: inline-block;
+list-style: none;
+color:white;
+padding-right:3vw;
+padding-top:1em;
+padding-bottom:1em;
+}
+a{
+text-decoration: none;
+color:white;
+}
+.loshara{
+font-size:60px;
+text-align:center;
+
 }
